@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "peaceful-forager:block/yellow_rock"
+      },
+      {
+        "model": "peaceful-forager:block/yellow_rock",
+        "y": 90
+      },
+      {
+        "model": "peaceful-forager:block/yellow_rock",
+        "y": 180
+      },
+      {
+        "model": "peaceful-forager:block/yellow_rock",
+        "y": 270
+      }
+    ]
+  }
+}

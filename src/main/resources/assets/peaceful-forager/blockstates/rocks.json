@@ -1,0 +1,66 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "peaceful-forager:block/genericrock1"
+      },
+      {
+        "model": "peaceful-forager:block/genericrock1",
+        "y": 90
+      },
+      {
+        "model": "peaceful-forager:block/genericrock1",
+        "y": 180
+      },
+      {
+        "model": "peaceful-forager:block/genericrock1",
+        "y": 270
+      },
+      {
+        "model": "peaceful-forager:block/genericrock2"
+      },
+      {
+        "model": "peaceful-forager:block/genericrock2",
+        "y": 90
+      },
+      {
+        "model": "peaceful-forager:block/genericrock2",
+        "y": 180
+      },
+      {
+        "model": "peaceful-forager:block/genericrock2",
+        "y": 270
+      },
+      {
+        "model": "peaceful-forager:block/genericrock3"
+      },
+      {
+        "model": "peaceful-forager:block/genericrock3",
+        "y": 90
+      },
+      {
+        "model": "peaceful-forager:block/genericrock3",
+        "y": 180
+      },
+      {
+        "model": "peaceful-forager:block/genericrock3",
+        "y": 270
+      },
+      {
+        "model": "peaceful-forager:block/genericrock4"
+      },
+      {
+        "model": "peaceful-forager:block/genericrock4",
+        "y": 90
+      },
+      {
+        "model": "peaceful-forager:block/genericrock4",
+        "y": 180
+      },
+      {
+        "model": "peaceful-forager:block/genericrock4",
+        "y": 270
+      }
+    ]
+  }
+}

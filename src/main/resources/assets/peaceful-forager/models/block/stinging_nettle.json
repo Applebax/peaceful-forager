@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "peaceful-forager:block/stinging_nettle"
+  }
+}

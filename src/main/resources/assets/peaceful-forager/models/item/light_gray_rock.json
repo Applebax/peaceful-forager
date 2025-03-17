@@ -1,0 +1,6 @@
+{
+  "parent":"minecraft:item/generated",
+  "textures": {
+    "layer0": "peaceful-forager:item/light_gray_unique_rock"
+  }
+}

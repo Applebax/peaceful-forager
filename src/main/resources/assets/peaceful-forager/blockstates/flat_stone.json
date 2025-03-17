@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "peaceful-forager:block/flat_stone"
+      },
+      {
+        "model": "peaceful-forager:block/flat_stone",
+        "y": 90
+      },
+      {
+        "model": "peaceful-forager:block/flat_stone",
+        "y": 180
+      },
+      {
+        "model": "peaceful-forager:block/flat_stone",
+        "y": 270
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:wheat"
+    },
+    "*": {
+      "item": "minecraft:sugar"
+    },
+    "0": {
+      "item": "minecraft:egg"
+    }
+  },
+  "pattern": [
+    "#0*"
+  ],
+  "result": {
+    "count": 1,
+    "id": "peaceful-forager:pancake"
+  }
+}

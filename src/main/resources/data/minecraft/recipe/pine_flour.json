@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "peaceful-forager:pine_cone"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "peaceful-forager:pine_flour"
+  }
+}
