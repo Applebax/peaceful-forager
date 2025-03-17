@@ -24,5 +24,6 @@
   "block.peaceful-forager.brown_rock": "Unique Rock",
   "block.peaceful-forager.light_gray_rock": "Unique Rock",
   "block.peaceful-forager.yellow_rock": "Unique Rock",
-  "item.peaceful-forager.cooked_mushroom": "Cooked Mushroom"
+  "item.peaceful-forager.cooked_mushroom": "Cooked Mushroom",
+  "tag.item.peaceful-forager.cookable_mushroom": "Cookable Mushrooms"
 }
