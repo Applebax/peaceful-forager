@@ -106,7 +106,7 @@ public class Peacefulforager implements ModInitializer {
 
 	private static ArrayList<Item> ITEMS = new ArrayList<>();
 
-	// public static final TagKey<Block> COOKABLE_MUSHROOM_TAG = TagKey.of(RegistryKeys.BLOCK, new Identifier(MOD_ID, "cookable_mushroom"));
+	public static final TagKey<Block> COOKABLE_MUSHROOM_TAG = TagKey.of(RegistryKeys.BLOCK, Identifier.of(MOD_ID, "cookable_mushroom"));
 
 	public static final FoodComponent PEAR_FOOD = (new FoodComponent.Builder()).nutrition(4).saturationModifier(0.3F).build();
 	public static final FoodComponent CHERRIES_FOOD = (new FoodComponent.Builder()).nutrition(2).saturationModifier(0.3F).build();
